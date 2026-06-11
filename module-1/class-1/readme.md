@@ -46,5 +46,5 @@
 - Intellij Idea, Pycharm
 
 ## Download Links
-- [Download Python - Windows](https://www.python.org/ftp/python/3.14.6/python-3.14.6-amd64.exe)
+- [Download Python - Windows](https://www.python.org/downloads/)
 - [Download Python - MacOS](https://www.python.org/ftp/python/3.14.6/python-3.14.6-macos11.pkg)
