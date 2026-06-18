@@ -112,7 +112,7 @@ Many functional languages and styling sheets use a convention known as **kebab-c
 ## Quick Reference Summary
 
 | Language         | Variables    | Functions / Methods | Classes      | Constants                    |
--  -  - |
+| -- | -- | -- | -- | -- |
 | **Python**       | `snake_case` | `snake_case`        | `PascalCase` | `UPPER_SNAKE`                |
 | **JavaScript**   | `camelCase`  | `camelCase`         | `PascalCase` | `UPPER_SNAKE`                |
 | **Java**         | `camelCase`  | `camelCase`         | `PascalCase` | `UPPER_SNAKE`                |
