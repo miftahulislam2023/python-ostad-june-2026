@@ -38,7 +38,7 @@
 ## Rules for Learing to Code in AI Era
 1. ভয় পাওয়া যাবে না
 2. প্রচুর বেশি পরিশ্রম করতে হবে
-3. আপনি শুরুতেই পারবেন না 
+3. আপনি শুরুতেই পারবেন না
 4. DON'T USE AI -> CODE YOURSELF
 
 ## IDE - Integrated Development Environment
