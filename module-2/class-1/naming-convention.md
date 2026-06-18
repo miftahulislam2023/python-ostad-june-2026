@@ -10,7 +10,7 @@ These are enforced by the Python interpreter. If you break these rules, your cod
 ### Examples of Valid vs. Invalid Names
 
 | Valid Names | Invalid Names | Reason for Failure |
-   |
+| -- | -- | -- |
 | `user_age` | `user-age` | Hyphens are not allowed. |
 | `_temp` | `1st_place` | Cannot start with a number. |
 | `total2` | `total$` | Special characters (`$`) are not allowed. |
@@ -29,7 +29,7 @@ The four most common casing styles used in Python are:
 ### Python Naming Conventions by Object Type
 
 | Object Type | Convention | Example |
-   |
+| -- | -- | -- |
 | **Variables** | `snake_case` | `total_price`, `user_id` |
 | **Functions & Methods** | `snake_case` | `calculate_total()`, `get_data()` |
 | **Classes** | `PascalCase` | `UserProfile`, `ShoppingCart` |
