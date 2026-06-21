@@ -8,3 +8,12 @@
 Zero numbers: `0`, `0.0`
 Empty sequences/collections: `""`, `[]`, `()`, `{}`, `set()`
 """
+print(None)
+print(False)
+print(0)
+print(0.0)
+print("")
+print([])
+print(())
+print({})
+print(set())
