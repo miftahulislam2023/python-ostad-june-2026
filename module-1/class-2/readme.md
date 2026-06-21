@@ -1,37 +1,47 @@
-# Class 2
+# Class - 2
 
 ## Today's Topic
-- print(), input()
-- Variables, Data Types (int, float, str, bool)
-- Type conversion, type(), id()
-- Writing basic expressions
+- print(), input()\n- Variables, Data Types (int, float, str, bool)\n- Type conversion, type(), id()\n- Writing basic expressions
 
-## Some important signs and symbols
+## Relevant Notes with code examples in English
+
+### Variables and Naming Rules
+Variables are containers for storing data values. In Python, variables are dynamically typed.
+Rules:
+- Must start with a letter or underscore `_`.
+- Cannot start with a number.
+- Can only contain alphanumeric characters and underscores (`a-z`, `A-Z`, `0-9`, `_`).
+- Case-sensitive (`age` and `Age` are different).
+
+### Fundamental Data Types
+- `int`: Integers (e.g., `10`, `-5`)
+- `float`: Floating point/decimal numbers (e.g., `10.5`, `-0.99`)
+- `str`: Strings/Text (e.g., `"Hello"`, `'Python'`)
+- `bool`: Boolean values (`True` or `False`)
+
+### Input and Output
+- `print()`: Used to display output.
+- `input()`: Used to take input from the user (always returns a string).
+
+```python
+# Taking input and printing
+name = input("Enter your name: ")
+age = int(input("Enter your age: ")) # Type conversion from str to int
+
+print(f"Hello {name}, you are {age} years old.")
 ```
-1. - hyphen, dash
-2. ` back tick
-3. ~ tilde
-4. ! exclamation mark
-5. $ dollar sign
-6. ^ caret
-7. & ampersand
-8. * asterisk
-9. () parenthesis, first bracket
-10. {} curly braces, second bracket
-11. [] square bracket, third bracket
-12. <> angle bracket
-13. _ underscore
-14. / forward slash, slash
-15. \ backslash
-16. '' single quotation mark
-17. "" double quotation mark
-18. ? question mark
-19. | pipe character
-20. ; semicolon
-21. : colon
-22. , comma
-23. . dot
-24. -> arrow
-25. % percentage, modulus
-26. # hash
+
+### Type Conversion and Utility Functions
+- `type()`: Returns the data type of an object.
+- `id()`: Returns the unique memory address identifier of an object.
+
+```python
+x = 10
+y = "10"
+print(type(x)) # <class 'int'>
+print(id(x))   # Memory address representation
+
+# Explicit Type Conversion (Casting)
+converted_y = int(y)
+print(type(converted_y)) # <class 'int'>
 ```
