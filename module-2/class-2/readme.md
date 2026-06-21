@@ -39,3 +39,8 @@ items = [] # Empty list is Falsy
 if not items:
     print("No items in the list.")
 ```
+
+
+## Cheatsheet
+- [VS Code Windows Cheatsheet](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+- [VS Code MacOS Cheatsheet](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
