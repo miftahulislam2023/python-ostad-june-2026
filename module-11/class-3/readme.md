@@ -3,7 +3,7 @@
 ## Today's Topic
 - Mini Project – Expense Tracker or File Note App
 
-## Relevant Notes with code examples in English
+## Notes
 
 ### Mini Project: File-Based Note App
 A script that saves user notes directly to a text file persistently.

@@ -3,7 +3,7 @@
 ## Today's Topic
 - Problem-solving techniques, input/output patterns
 
-## Relevant Notes with code examples in English
+## Notes
 
 ### Problem Solving Strategy
 1. **Understand the Goal:** Write down inputs, expected outputs, and constraints.

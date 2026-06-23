@@ -3,7 +3,7 @@
 ## Today's Topic
 - Mini Project – Score Tracker
 
-## Relevant Notes with code examples in English
+## Notes
 
 ### Mini Project: Score Tracker
 This program allows dynamic tracking of student scores. It allows adding scores, calculating stats (min, max, average), and filtering passing marks.

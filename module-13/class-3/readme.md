@@ -3,7 +3,7 @@
 ## Today's Topic
 - Polymorphism
 
-## Relevant Notes with code examples in English
+## Notes
 
 ### Polymorphism
 Polymorphism means "many forms". It allows methods in different classes to have the same name but behave differently.

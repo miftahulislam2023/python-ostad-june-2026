@@ -3,7 +3,7 @@
 ## Today's Topic
 - Python in Web Dev, Automation & QA
 
-## Relevant Notes with code examples in English
+## Notes
 
 ### Web Development
 Python offers robust backend frameworks:

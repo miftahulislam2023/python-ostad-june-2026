@@ -3,7 +3,7 @@
 ## Today's Topic
 - Mini Project – Contact book or Inventory
 
-## Relevant Notes with code examples in English
+## Notes
 
 ### Mini Project: Contact Book
 A contact book utilizing Python Dictionaries to execute CRUD operations dynamically.

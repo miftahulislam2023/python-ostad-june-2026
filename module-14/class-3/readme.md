@@ -3,7 +3,7 @@
 ## Today's Topic
 - Freelancing, Job Roles, GitHub Portfolio
 
-## Relevant Notes with code examples in English
+## Notes
 
 ### Career Roadmap and Strategy
 1. **GitHub Portfolio:** Store clean, structured code, projects, and assignments. Create a professional README.

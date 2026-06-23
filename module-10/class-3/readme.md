@@ -3,7 +3,7 @@
 ## Today's Topic
 - Mini Project – Function-based calculator
 
-## Relevant Notes with code examples in English
+## Notes
 
 ### Mini Project: Function-Based Calculator
 Uses pure modular functions to handle core arithmetic operations.

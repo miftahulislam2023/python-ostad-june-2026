@@ -3,7 +3,7 @@
 ## Today's Topic
 - Mini Project – Voting system or student management
 
-## Relevant Notes with code examples in English
+## Notes
 
 ### Mini Project: Student Management System
 Manages students grades, showing records and calculating averages using nested dictionaries.

@@ -3,7 +3,7 @@
 ## Today's Topic
 - for loop, range(), loop nesting
 
-## Relevant Notes with code examples in English
+## Notes
 
 ### For Loops and Iteration
 A `for` loop is used for iterating over a sequence (such as a list, tuple, dictionary, set, or string).

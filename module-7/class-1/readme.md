@@ -3,7 +3,7 @@
 ## Today's Topic
 - Dictionaries – CRUD, .items(), nested dicts
 
-## Relevant Notes with code examples in English
+## Notes
 
 ### Python Dictionaries
 Dictionaries store data in key-value pairs. They are ordered (since 3.7), mutable, and do not allow duplicate keys.

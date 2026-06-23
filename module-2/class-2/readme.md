@@ -5,7 +5,7 @@
 - truthy/falsy values
 - debugging
 
-## Relevant Notes with code examples in English
+## Notes
 
 ### Nested Conditions
 You can write conditional statements inside other conditional statements to handle complex decision making.

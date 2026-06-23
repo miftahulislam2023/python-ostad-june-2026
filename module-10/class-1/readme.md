@@ -3,7 +3,7 @@
 ## Today's Topic
 - Functions, parameters, return values
 
-## Relevant Notes with code examples in English
+## Notes
 
 ### Introduction to Functions
 Functions are reusable blocks of code that perform a specific task. They are defined using the `def` keyword.

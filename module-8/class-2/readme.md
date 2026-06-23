@@ -3,7 +3,7 @@
 ## Today's Topic
 - Nested loop logic, conditions with dictionaries
 
-## Relevant Notes with code examples in English
+## Notes
 
 ### Nested Loops in Lists
 Using nested loops to iterate over 2D structures (matrices).

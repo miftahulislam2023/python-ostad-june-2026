@@ -3,7 +3,7 @@
 ## Today's Topic
 - while loop, infinite loops, counters
 
-## Relevant Notes with code examples in English
+## Notes
 
 ### Introduction to While Loops
 A `while` loop repeatedly executes a block of code as long as a specified condition is `True`.

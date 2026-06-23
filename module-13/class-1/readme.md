@@ -3,7 +3,7 @@
 ## Today's Topic
 - Encapsulation
 
-## Relevant Notes with code examples in English
+## Notes
 
 ### Object Oriented Programming (OOP)
 OOP is a paradigm based on "objects", which contain data (attributes) and code (methods).

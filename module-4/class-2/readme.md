@@ -3,7 +3,7 @@
 ## Today's Topic
 - Beginner problems (sum, even/odd, max of 3)
 
-## Relevant Notes with code examples in English
+## Notes
 
 ### Practical Examples
 

@@ -3,7 +3,7 @@
 ## Today's Topic
 - Scope, lambda, map() and filter() (intro)
 
-## Relevant Notes with code examples in English
+## Notes
 
 ### Scope
 Scope determines the visibility/accessibility of variables:

@@ -3,7 +3,7 @@
 ## Today's Topic
 - File handling (open, read, write, .csv)
 
-## Relevant Notes with code examples in English
+## Notes
 
 ### File Handling in Python
 Always use the `with` statement when opening files to ensure they are automatically closed.

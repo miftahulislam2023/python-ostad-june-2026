@@ -3,7 +3,7 @@
 ## Today's Topic
 - Sets – Unique values, operations, use cases
 
-## Relevant Notes with code examples in English
+## Notes
 
 ### Python Sets
 Sets are unordered, unindexed, and contain unique elements only.

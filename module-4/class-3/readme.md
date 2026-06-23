@@ -3,7 +3,7 @@
 ## Today's Topic
 - Practice session – live problem walkthrough, assignments
 
-## Relevant Notes with code examples in English
+## Notes
 
 ### Advanced Beginner Challenges
 

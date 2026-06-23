@@ -3,7 +3,7 @@
 ## Today's Topic
 - Lists – index, slice, methods (append, insert)
 
-## Relevant Notes with code examples in English
+## Notes
 
 ### Python Lists
 Lists are ordered, mutable, and allow duplicate elements.

@@ -3,7 +3,7 @@
 ## Today's Topic
 - String problems, real-world logic
 
-## Relevant Notes with code examples in English
+## Notes
 
 ### Basic String Operations
 Strings are immutable sequences of characters.

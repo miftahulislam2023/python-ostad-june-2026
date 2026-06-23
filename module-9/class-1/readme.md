@@ -3,7 +3,7 @@
 ## Today's Topic
 - Review + Exam Week
 
-## Relevant Notes with code examples in English
+## Notes
 
 ### Module 2 Review
 Review topics on intermediate Python structures:

@@ -3,7 +3,7 @@
 ## Today's Topic
 - Mini Project – API-based app (weather/news)
 
-## Relevant Notes with code examples in English
+## Notes
 
 ### Mini Project: Weather API Requester
 Demonstrating how to request mock API data or real internet data using standard library `urllib` or third-party `requests`.

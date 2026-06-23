@@ -3,7 +3,7 @@
 ## Today's Topic
 - Searching in lists, frequency counters
 
-## Relevant Notes with code examples in English
+## Notes
 
 ### Searching Algorithms
 - **Linear Search:** Checks each element sequentially until a match is found. Time complexity is $O(N)$.

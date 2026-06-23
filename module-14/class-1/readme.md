@@ -3,7 +3,7 @@
 ## Today's Topic
 - Python in Data Science, AI & ML
 
-## Relevant Notes with code examples in English
+## Notes
 
 ### Python Libraries in Data Science and AI
 Python is the leading language for ML/DL due to powerful libraries:

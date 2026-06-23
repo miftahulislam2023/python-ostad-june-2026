@@ -3,7 +3,7 @@
 ## Today's Topic
 - Abstraction & Inheritance
 
-## Relevant Notes with code examples in English
+## Notes
 
 ### Inheritance
 Inheritance allows a new class (child/subclass) to inherit attributes and methods of an existing class (parent/superclass).

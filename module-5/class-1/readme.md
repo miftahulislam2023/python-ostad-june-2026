@@ -3,7 +3,7 @@
 ## Today's Topic
 - Review + Exam Week
 
-## Relevant Notes with code examples in English
+## Notes
 
 ### Module 1 Review
 This week focuses on reviewing basic programming fundamentals covered in Weeks 1-4:

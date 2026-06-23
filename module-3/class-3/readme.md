@@ -3,7 +3,7 @@
 ## Today's Topic
 - Mini Project – Number guessing game
 
-## Relevant Notes with code examples in English
+## Notes
 
 ### Mini Project: Number Guessing Game
 In this game, the program selects a secret random number, and the player tries to guess it. The program gives feedback (too high, too low) for each guess until they guess correctly or run out of attempts.

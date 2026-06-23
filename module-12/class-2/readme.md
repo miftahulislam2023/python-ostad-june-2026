@@ -3,7 +3,7 @@
 ## Today's Topic
 - Sorting logic, basic algorithm thinking
 
-## Relevant Notes with code examples in English
+## Notes
 
 ### Sorting in Python
 - `.sort()`: Sorts list in-place.

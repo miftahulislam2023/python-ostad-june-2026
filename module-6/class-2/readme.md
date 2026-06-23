@@ -3,7 +3,7 @@
 ## Today's Topic
 - Tuples – immutable, unpacking, usage
 
-## Relevant Notes with code examples in English
+## Notes
 
 ### Tuples
 Tuples are ordered and immutable collections. Once created, they cannot be altered (no append, insert, or remove).

@@ -3,7 +3,7 @@
 ## Today's Topic
 - Built-in modules (math, random, datetime), pip
 
-## Relevant Notes with code examples in English
+## Notes
 
 ### Built-in Modules
 Python standard library comes with built-in utility modules.

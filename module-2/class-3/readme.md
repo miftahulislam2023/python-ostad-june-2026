@@ -3,7 +3,7 @@
 ## Today's Topic
 - Mini Project – Grade evaluator or age checker
 
-## Relevant Notes with code examples in English
+## Notes
 
 ### Mini Project: Grade Evaluator
 This project takes a score as input, checks its validity, and calculates grades dynamically. It demonstrates nested conditions, truthy/falsy inputs, and type conversion.
