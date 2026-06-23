@@ -11,9 +11,9 @@ if "asd":
 # Unnested if
 if "":
     print("5")
-    if ():
-        print("6")
-    elif "12":
-        print("7")
-    if "121":
-        print("8")
+elif ():
+    print("6")
+elif "12":
+    print("7")
+if "121":
+    print("8")
