@@ -24,3 +24,5 @@ for i in range(1, 4):
 
 ## Homework
 1. Leap year
+2. Use for loop to print fibonacci number from 1 to 144
+3. Use while loop to print fibonacci number from 1 to 144
