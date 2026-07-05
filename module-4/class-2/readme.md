@@ -3,29 +3,13 @@
 ## Today's Topic
 - Beginner problems (sum, even/odd, max of 3)
 
-## Notes
-
-### Practical Examples
-
-#### 1. Check Even or Odd
-```python
-num = int(input("Enter a number: "))
-if num % 2 == 0:
-    print("Even")
-else:
-    print("Odd")
-```
-
-#### 2. Find Maximum of Three Numbers
-```python
-a, b, c = map(int, input("Enter three space-separated numbers: ").split())
-
-if a >= b and a >= c:
-    largest = a
-elif b >= a and b >= c:
-    largest = b
-else:
-    largest = c
-
-print(f"The largest number is: {largest}")
-```
+## Homework
+1. Minimum of 3
+2. Sum of the series 1 + 3 + 5 + ... + 99
+3. Calculator (+, -, *, /)
+   - Input 2 numbers
+   - Input operator (+, -, *, /)
+   - Calculate
+   - Print result with proper message
+   - Handle division by zero
+4. Positive, negative and zero checking
