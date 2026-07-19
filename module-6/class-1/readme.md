@@ -1,7 +1,12 @@
 # Class - 14
 
 ## Today's Topic
-- Lists – index, slice, methods (append, insert)
+- Lists
+- index
+- slice
+- methods
+  - append
+  - insert
 
 ## Notes
 
@@ -34,3 +39,9 @@ numbers.append(60)
 numbers.insert(1, 15) # Inserts 15 at index 1
 print(numbers) # [10, 15, 20, 30, 40, 50, 60]
 ```
+
+## Homework
+1. Create a list with your favourite 5 food items
+2. Insert at index 3 another item
+3. Pop the last item
+4. Use for loop to print the list items
