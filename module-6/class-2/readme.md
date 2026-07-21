@@ -1,7 +1,10 @@
 # Class - 15
 
 ## Today's Topic
-- Tuples – immutable, unpacking, usage
+- Tuples
+- immutable
+- unpacking
+- usage, uses
 
 ## Notes
 
