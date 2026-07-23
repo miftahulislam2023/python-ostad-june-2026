@@ -30,3 +30,4 @@ print(f"x: {x}, y: {y}, z: {z}")
 1. **Safety:** Protects data against accidental changes.
 2. **Speed:** Tuples are slightly faster than lists in terms of memory overhead and processing.
 3. **Dictionary Keys:** Tuples can be used as keys in a dictionary (lists cannot because they are mutable).
+
