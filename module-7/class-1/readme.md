@@ -1,12 +1,21 @@
 # Class - 17
 
 ## Today's Topic
-- Dictionaries – CRUD, .items(), nested dicts
+- Dictionaries
+- CRUD
+  - Create
+  - Read
+  - Update
+  - Delete
+- .items()
+- nested dicts
+- JSON -> JavaScript Object Notation
 
 ## Notes
 
 ### Python Dictionaries
-Dictionaries store data in key-value pairs. They are ordered (since 3.7), mutable, and do not allow duplicate keys.
+
+Dictionaries store data in key-value pairs. They are mutable, and do not allow duplicate keys.
 
 ```python
 # Initializing Dictionary
@@ -18,6 +27,7 @@ student = {
 ```
 
 ### CRUD Operations
+
 - **Create/Update:** `dict[key] = value`
 - **Read:** `dict[key]` or `dict.get(key)`
 - **Delete:** `del dict[key]` or `dict.pop(key)`
@@ -34,6 +44,7 @@ student["grade"] = "A+"
 ```
 
 ### Iteration
+
 - `.keys()`: Iterate keys.
 - `.values()`: Iterate values.
 - `.items()`: Iterate both keys and values.
