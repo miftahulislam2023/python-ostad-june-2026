@@ -3,8 +3,6 @@
 ## Today's Topic
 - Mini Project – Contact book or Inventory
 
-## Notes
-
 ### Mini Project: Contact Book
 A contact book utilizing Python Dictionaries to execute CRUD operations dynamically.
 
@@ -53,3 +51,23 @@ while True:
     elif choice == '6':
         break
 ```
+
+## Business related software
+- Accounting
+  - Financial Accounting
+  - Managerial Accounting
+- Finance
+  - Investment Banking
+  - Corporate Finance
+  - Risk Management
+- Management
+  - Supply Chain Management
+  - Human Resource Management
+  - Operations Management
+- Marketing
+  - Digital Marketing
+  - Social Media Marketing
+  - Content Marketing
+
+## HW
+1. Complete the inventory project by adding options to update a product by id
