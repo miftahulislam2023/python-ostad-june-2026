@@ -1,7 +1,8 @@
 # Class - 20
 
 ## Today's Topic
-- Searching in lists, frequency counters
+- Searching in lists
+- frequency counters
 
 ## Notes
 
