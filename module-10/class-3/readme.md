@@ -1,6 +1,7 @@
 # Class - 26
 
 ## Today's Topic
+- map() and filter() (intro)
 - Mini Project – Function-based calculator
 
 ## Notes
@@ -29,4 +30,14 @@ def calculator():
 
 if __name__ == "__main__":
     calculator()
+```
+
+### map() and filter()
+- `map(func, iterable)`: Applies a function to all items in an input list.
+- `filter(func, iterable)`: Filters items based on a boolean-returning function.
+
+```python
+nums = [1, 2, 3, 4]
+squared = list(map(lambda x: x*x, nums)) # [1, 4, 9, 16]
+evens = list(filter(lambda x: x % 2 == 0, nums)) # [2, 4]
 ```
