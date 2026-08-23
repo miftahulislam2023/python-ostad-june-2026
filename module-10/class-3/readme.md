@@ -1,18 +1,23 @@
 # Class - 26
 
 ## Today's Topic
-- map() and filter() (intro)
+- map() and filter()
 - Mini Project – Function-based calculator
 
 ## Notes
+- Higher order functions: They take other functions as their argument
+- functools.reduce(), sorted()
 
 ### Mini Project: Function-Based Calculator
 Uses pure modular functions to handle core arithmetic operations.
 
 ```python
-def add(a, b): return a + b
-def subtract(a, b): return a - b
-def multiply(a, b): return a * b
+def add(a, b):
+    return a + b
+def subtract(a, b):
+    return a - b
+def multiply(a, b):
+    return a * b
 def divide(a, b): 
     return "Error! Division by zero." if b == 0 else a / b
 
@@ -22,14 +27,17 @@ def calculator():
     x = float(input("First number: "))
     y = float(input("Second number: "))
     
-    if choice == '1': print("Result:", add(x, y))
-    elif choice == '2': print("Result:", subtract(x, y))
-    elif choice == '3': print("Result:", multiply(x, y))
-    elif choice == '4': print("Result:", divide(x, y))
+    if choice == '1':
+        print("Result:", add(x, y))
+    elif choice == '2':
+        print("Result:", subtract(x, y))
+    elif choice == '3':
+        print("Result:", multiply(x, y))
+    elif choice == '4':
+        print("Result:", divide(x, y))
     else: print("Invalid choice.")
 
-if __name__ == "__main__":
-    calculator()
+calculator()
 ```
 
 ### map() and filter()
@@ -41,3 +49,6 @@ nums = [1, 2, 3, 4]
 squared = list(map(lambda x: x*x, nums)) # [1, 4, 9, 16]
 evens = list(filter(lambda x: x % 2 == 0, nums)) # [2, 4]
 ```
+
+## HW
+1. map, filter -> 5 example
