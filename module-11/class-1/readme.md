@@ -1,9 +1,18 @@
 # Class - 27
 
 ## Today's Topic
-- File handling (open, read, write, .csv)
+- File handling
+  - open
+  - read (read, readline, readlines)
+  - write
+- .csv
 
 ## Notes
+- CRUD
+  - Create
+  - Read
+  - Update
+  - Delete
 
 ### File Handling in Python
 Always use the `with` statement when opening files to ensure they are automatically closed.
@@ -36,3 +45,13 @@ with open("data.csv", "r") as file:
     for row in reader:
         print(row)
 ```
+
+### File Opening Modes
+| Mode | Description |
+|------|-------------|
+| r    | Read        |
+| w    | Write -> Overwrite    |
+| a    | Append -> No overwrite, just add to the end   |
+
+## References
+1. https://www.geeksforgeeks.org/python/file-mode-in-python/
