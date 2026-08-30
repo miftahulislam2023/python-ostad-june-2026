@@ -1,9 +1,17 @@
 # Class - 29
 
 ## Today's Topic
-- Mini Project – Expense Tracker or File Note App
+- Mini Project – `Expense Tracker` or `File Note App`
 
-## Notes
+## Questions
+1. What will we use? - Built in modules only
+2. What will be the features?
+3. Will it be GUI or Console Based? - Console Based
+4. Will it use JSON or CSV or Text File? - JSON
+5. Will it have a database? - no
+6. Will it have a login system? - no
+7. Will it have a registration system? - no
+8. Will it have a forgot password system? - no
 
 ### Mini Project: File-Based Note App
 A script that saves user notes directly to a text file persistently.
