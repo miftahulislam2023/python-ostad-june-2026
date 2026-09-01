@@ -3,28 +3,8 @@
 ## Today's Topic
 - String problems, real-world logic
 
-## Notes
+## Problems
+1. 10/3*4-12+36/78(12+45)*(12/3)+(2^2) -> evaluate the whole expression
 
-### Basic String Operations
-Strings are immutable sequences of characters.
-
-#### Methods:
-- `.split()`: Splits string into a list.
-- `.join()`: Joins list elements into a string.
-- `.replace()`: Replaces substring.
-- String slicing: `string[::-1]` reverses a string.
-
-```python
-text = "python programming"
-print(text.upper()) # PYTHON PROGRAMMING
-print(text.replace("python", "Java")) # Java programming
-```
-
-#### Palindrome Check Example
-```python
-word = input("Enter a word: ").lower()
-if word == word[::-1]:
-    print("Palindrome")
-else:
-    print("Not a Palindrome")
-```
+## HW
+1. Complete the mini project from the last class of the previous module.
