@@ -1,7 +1,13 @@
 # Class - 31
 
 ## Today's Topic
-- Sorting logic, basic algorithm thinking
+- Sorting logic
+  - Bubble Sort
+  - Merge Sort
+  - Selection Sort
+  - Insertion Sort
+  - Quick Sort
+- Basic algorithm thinking
 
 ## Notes
 
@@ -27,3 +33,6 @@ def bubble_sort(arr):
 
 print(bubble_sort([64, 34, 25, 12, 22])) # [12, 22, 25, 34, 64]
 ```
+
+## Homework
+1. Bubble sort নিজে থেকে লিখবেন
