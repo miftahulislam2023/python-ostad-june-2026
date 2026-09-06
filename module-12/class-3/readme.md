@@ -4,6 +4,7 @@
 - Mini Project – API-based app (weather/news)
 
 ## Notes
+- API -> Application Programming Interface
 
 ### Mini Project: Weather API Requester
 Demonstrating how to request mock API data or real internet data using standard library `urllib` or third-party `requests`.
@@ -30,3 +31,6 @@ def get_weather():
 if __name__ == "__main__":
     get_weather()
 ```
+
+## Homework
+- Convert the console app to dynamic app by taking input from the user
