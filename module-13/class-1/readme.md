@@ -1,33 +1,61 @@
 # Class - 33
 
 ## Today's Topic
-- Encapsulation
+- Introduction to OOP
 
-## Notes
+## A PIE
+1. Abstraction -> বিমূর্ততা
+2. Polymorphism -> বহুরূপিতা
+3. Inheritance -> উত্তরাধিকার
+4. Encapsulation -> তথ্য লুকানো/আবদ্ধতা
+
+## Programming Paradigms
+1. Functional Programming -> React
+2. Structural Programming -> C, Go
+3. Object Oriented Programming -> **Java**, **C++**, C#, Kotlin, **Dart**, Swift, PHP, Python, Ruby
 
 ### Object Oriented Programming (OOP)
-OOP is a paradigm based on "objects", which contain data (attributes) and code (methods).
+OOP is a programming paradigm based on the concept of "objects" which primarily consists of attributes (or properties).
 
-### Encapsulation
-Encapsulation wraps data and methods into a single unit (class) and restricts access using access modifiers.
-- **Public:** Default behavior.
-- **Private:** Prefixed with double underscores `__`.
+### Basic Concepts
 
+#### 1. **Class**
+A blueprint for creating objects.
 ```python
-class BankAccount:
-    def __init__(self, owner, balance):
-        self.owner = owner
-        self.__balance = balance # Private attribute
-
-    def deposit(self, amount):
-        if amount > 0:
-            self.__balance += amount
-            
-    def get_balance(self): # Getter method
-        return self.__balance
-
-account = BankAccount("Abed", 1000)
-account.deposit(500)
-print(account.get_balance()) # 1500
-# print(account.__balance) # Raises AttributeError
+class Dog:
+    species = "Canis familiaris"
+    
+    def __init__(self, name, age):
+        self.name = name
+        self.age = age
+    
+    def bark(self):
+        return f"{self.name} says Woof!"
 ```
+
+#### 2. **Object**
+An instance of a class.
+```python
+# Creating objects (instances)
+dog1 = Dog("Buddy", 3)
+dog2 = Dog("Lucy", 2)
+```
+
+#### 3. **Attributes**
+Variables that store data within a class.
+```python
+print(dog1.name)  # Output: Buddy
+print(dog2.age)   # Output: 2
+```
+
+#### 4. **Methods**
+Functions defined inside a class that perform operations.
+```python
+print(dog1.bark())  # Output: Buddy says Woof!
+```
+
+### Why Use OOP?
+1. **Modularity**: Code is organized into objects, making it easier to manage.
+2. **Reusability**: Classes can be reused in different parts of the program or in other programs.
+3. **Maintainability**: Easier to debug and modify code.
+4. **Scalability**: Better for building large and complex applications.
