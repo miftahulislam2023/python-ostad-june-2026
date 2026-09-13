@@ -1,7 +1,7 @@
 # Class - 34
 
 ## Today's Topic
-- Abstraction & Inheritance
+- Inheritance
 
 ## Notes
 
