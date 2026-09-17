@@ -10,7 +10,7 @@
 ## Job Hunting Steps
 1. Current Job Vacancy Analysis (atleast collect 20-30 job postings from both country and abroad)
 2. Identifying the strong zones and weaknesses
-3. Preparing for the roles by studying and developing skills
+3. Preparing for the roles by **studying** and developing skills
 4. Parallely building a **portfolio** (LinkedIn, GitHub, Resume, etc.) to showcase the skills
 5. Networking with professionals in the field
 6. Applying for jobs
